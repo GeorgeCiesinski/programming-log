@@ -1,6 +1,13 @@
 # Bootstrap Resume Log
 
 
+### 2022-03-17 | 2 h
+
+- Replaced testimonials with References available
+- Fixed typo in education
+- Added pdf resume link
+- Added placeholder image until headshot is available next week
+
 ### 2022-03-15 | 2 h
 
 - Changed border color
