@@ -1,5 +1,9 @@
 # Bootstrap Resume Log
 
+### 2022-03-30 | 1 h
+
+- Updated Resume with minor changes
+- Updated README
 
 ### 2022-03-17 | 2 h
 
