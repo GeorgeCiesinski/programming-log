@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-04-03 | 2 h
+
+- Created portfolio-overview.html page
+- Created portfolio-item.html page
+- Added carousel to portfolio-item.html to display project images
+
 ### 2022-04-01 | 2 h
 
 - Added multiple new sections to page
