@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-04-20 | 3 h
+
+- Updated navbar with additional links including resume button
+- Updated portfolio logo
+- Added content to home page
+
 ### 2022-04-03 | 2 h
 
 - Created portfolio-overview.html page
