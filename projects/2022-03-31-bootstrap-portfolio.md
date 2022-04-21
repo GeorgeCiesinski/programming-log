@@ -5,6 +5,7 @@
 - Updated navbar with additional links including resume button
 - Updated portfolio logo
 - Added content to home page
+- Todo: Fix navbar links. Resume button looks different than other links
 
 ### 2022-04-03 | 2 h
 
