@@ -1,5 +1,10 @@
 # Bootstrap Resume Log
 
+### 2022-04-20 | 1 h
+
+- Updated colors to be less white and use more of the color scheme
+- Improved spacing in some space
+
 ### 2022-03-30 | 1 h
 
 - Updated Resume with minor changes
