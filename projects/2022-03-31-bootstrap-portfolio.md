@@ -1,5 +1,14 @@
 # Bootstrap Portfolio Log
 
+### 2022-04-24 | 4 h
+- Removed !important exception and used specificity
+- Updated Navbar and Footer with better reactivity
+
+### 2022-04-23 | 3 h
+- Updated page content
+- Updated Navbar links and colors
+- Updated Footer links and colors
+
 ### 2022-04-20 | 3 h
 
 - Updated navbar with additional links including resume button
