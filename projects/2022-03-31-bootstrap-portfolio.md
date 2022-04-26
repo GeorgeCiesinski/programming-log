@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+### 2022-04-25 | 3 h
+- Added navbar items and changed the order
+- Improved form styling
+- Updated My Links in footer to link to linkedin
+
 ### 2022-04-24 | 4 h
 - Removed !important exception and used specificity
 - Updated Navbar and Footer with better reactivity
