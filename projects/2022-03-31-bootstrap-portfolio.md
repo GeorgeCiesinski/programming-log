@@ -1,5 +1,9 @@
 # Bootstrap Portfolio Log
 
+
+### 2022-06-17 | 1 h
+- Created footer for portfolio item
+
 ### 2022-04-25 | 3 h
 - Added navbar items and changed the order
 - Improved form styling
