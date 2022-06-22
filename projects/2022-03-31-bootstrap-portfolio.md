@@ -1,5 +1,7 @@
 # Bootstrap Portfolio Log
 
+### 2022-06-19 | 2 h
+- Attempted to save code by writing a single navigation section for the portfolio items 
 
 ### 2022-06-17 | 1 h
 - Created footer for portfolio item
