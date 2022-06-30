@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+### 2022-06-29 | 2h
+- Created poke-bot, social media analysis, text-script, and image filters portfolio item pages
+- Updated Sass to alter carousel indicator, controls, and captions color
+- Updated Index to properly link to all portfolio items
+
 ### 2022-06-19 | 2 h
 - Attempted to save code by writing a single navigation section for the portfolio items 
 
