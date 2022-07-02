@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-01 | 4h
+- Added background to carousel caption and controls
+- Made carousel caption full width and without spacer
+- Added border to carousel
+- These steps took a lot of research and trial & error
+
 ### 2022-06-29 | 2h
 - Created poke-bot, social media analysis, text-script, and image filters portfolio item pages
 - Updated Sass to alter carousel indicator, controls, and captions color
