@@ -1,5 +1,12 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-07 | 6h
+- Resized images to fit the carousel better
+- Updated carousel on all portfolio-items to have improved look
+- Created sample images for social-media-analysis to include in portfolio
+- Added thumbnails to index page
+- Resized contact form depending on browser size
+
 ### 2022-07-01 | 4h
 - Added background to carousel caption and controls
 - Made carousel caption full width and without spacer
