@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-10 | 4h
+- Added all social-media-analysis images to carousel
+- Added thumbnail to index
+- Removed irrelevant code from sass file
+- Found error in nav-toggler
+
 ### 2022-07-07 | 6h
 - Resized images to fit the carousel better
 - Updated carousel on all portfolio-items to have improved look
