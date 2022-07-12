@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-11 | 2h
+- Added all flask-api images to carousel
+- Added thumbnail to index
+- Removed unnecessary punctuation from other carousel items
+- Fixed error in nav-toggler by adding navbar-dark class to navbar
+
 ### 2022-07-10 | 4h
 - Added all social-media-analysis images to carousel
 - Added thumbnail to index
