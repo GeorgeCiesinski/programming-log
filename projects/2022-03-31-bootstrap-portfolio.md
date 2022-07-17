@@ -1,6 +1,13 @@
 # Bootstrap Portfolio Log
 
 
+### 2022-07-17 | 2h
+- Finished Pokebot section
+- Added screenshots of resume to carousel
+- Added thumbnail to index
+- Replaced depracated portfolio on github pages with new one
+- Updated captions on all items
+
 ### 2022-07-16 | 2h
 - Gathered screenshots of pokebot and modified each image to optimize for site
 - Added images to carousel
