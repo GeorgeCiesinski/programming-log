@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+
+### 2022-07-16 | 2h
+- Gathered screenshots of pokebot and modified each image to optimize for site
+- Added images to carousel
+
 ### 2022-07-11 | 2h
 - Added all flask-api images to carousel
 - Added thumbnail to index
