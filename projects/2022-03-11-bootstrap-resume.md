@@ -1,5 +1,9 @@
 # Bootstrap Resume Log
 
+### 2022-07-19 | 1h
+- Updated links to portfolio
+- Pushed changes to work experience section
+
 ### 2022-04-20 | 1 h
 
 - Updated colors to be less white and use more of the color scheme
