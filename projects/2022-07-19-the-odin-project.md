@@ -3,6 +3,9 @@
 https://www.theodinproject.com
 
 
+### 2022-07-21 | 0.5h
+- Prerequisites 1
+
 ### 2022-07-20 | 1.5h
 - Foundation: 4 - 5
 
