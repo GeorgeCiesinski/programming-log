@@ -3,6 +3,10 @@
 https://www.theodinproject.com
 
 
+### 2022-07-23 | 3h
+- Prerequisites 2-7
+- Git basicas 1-2
+
 ### 2022-07-21 | 0.5h
 - Prerequisites 1
 
