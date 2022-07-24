@@ -1,5 +1,9 @@
 # Bootstrap Resume Log
 
+### 2022-07-23 | 0.25h
+- Edited photo of self
+- Updated main image
+
 ### 2022-07-19 | 1h
 - Updated links to portfolio
 - Pushed changes to work experience section
