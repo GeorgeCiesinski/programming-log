@@ -4,6 +4,7 @@
 - Reorganized page to look nicer and more symmetrical
 - Replaced bg color with bg-light
 - Updated contact form placeholder text
+- Created new success page showing a success alert
 - Changed contact form redirect page to portfolio success page
 
 ### 2022-07-23 | 0.25h
