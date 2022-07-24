@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-24 | 1h
+- Reorganized page to look nicer and more symmetrical
+- Replaced bg color with bg-light
+- Updated contact form placeholder text
+- Changed contact form redirect page to portfolio success page
 
 ### 2022-07-23 | 0.25h
 - Edited photo of self
