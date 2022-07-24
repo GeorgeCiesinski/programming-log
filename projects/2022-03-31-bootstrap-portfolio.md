@@ -1,6 +1,10 @@
 # Bootstrap Portfolio Log
 
 
+### 2022-07-23 | 0.25h
+- Edited photo of self
+- Updated main image
+
 ### 2022-07-17 | 2h
 - Finished Pokebot section
 - Added screenshots of resume to carousel
