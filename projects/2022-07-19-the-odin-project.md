@@ -3,6 +3,9 @@
 https://www.theodinproject.com
 
 
+### 2022-07-25 | 1h
+- HTML Foundations 1-2
+
 ### 2022-07-23 | 2.5h
 - Prerequisites 2-7
 - Git basicas 1-2
