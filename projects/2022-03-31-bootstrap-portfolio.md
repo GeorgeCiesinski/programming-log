@@ -1,5 +1,8 @@
 # Bootstrap Portfolio Log
 
+### 2022-07-26 | 0.5h
+- Fixed broken links on all portfolio items
+
 ### 2022-07-24 | 1h
 - Updated portfolio item thumbs
 - Updated contact form placeholder text
