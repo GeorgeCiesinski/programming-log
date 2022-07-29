@@ -3,6 +3,10 @@
 https://www.theodinproject.com
 
 ### 2022-07-25 | 1h
+- HTML Foundations 7-8
+- Brutalist Recipes Website
+
+### 2022-07-25 | 1h
 - HTML Foundations 3-6
 
 ### 2022-07-25 | 1h
