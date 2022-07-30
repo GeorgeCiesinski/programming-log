@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-07-30 | 1h
+- Updated recipe page with CSS
+
 ### 2022-07-29 | 2h
 - CSS Foundations 1
 
