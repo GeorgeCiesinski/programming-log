@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-07-29 | 2h
+- CSS Foundations 1
+
 ### 2022-07-28 | 2h
 - HTML Foundations 7-8
 - Brutalist Recipes Website
