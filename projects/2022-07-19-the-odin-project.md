@@ -4,6 +4,7 @@ https://www.theodinproject.com
 
 ### 2022-07-31 | 3h
 - CSS Foundations 2-4
+- Flexbox 1
 
 ### 2022-07-30 | 1h
 - Updated recipe page with CSS
