@@ -3,6 +3,21 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+### 2022-08-05 | 3h
+- Spent hours attempting more solutions to resize starship components since they are dynamically created
+- Found a solution using mixins
+- Successfully resized starship on smaller screens
+
+### 2022-08-04 | 5h
+- Corrected starship alignment and calibrated it for different starship sizes
+- Noticed error where starship does not resize on smaller screens
+- Spent hours attempting several different solutions
+
+### 2022-08-03 | 6h
+- Added color theme to basic sections
+- Successfully added CSS only parallax star background to one of the divs
+- Added starship components without successfully aligning them
+
 ### 2022-08-02 | 2h
 - Boilerplate HTML
 - Header and Footer
