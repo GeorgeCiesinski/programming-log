@@ -4,6 +4,13 @@ This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
 ### 2022-08-05 | 3h
+- Added starship movement in space section
+- Added slight blur to parallax stars
+- Added content to welcome section
+- Added content to quotes section
+- Updated footer to remove links
+
+### 2022-08-05 | 3h
 - Spent hours attempting more solutions to resize starship components since they are dynamically created
 - Found a solution using mixins
 - Successfully resized starship on smaller screens
