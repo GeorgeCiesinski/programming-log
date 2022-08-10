@@ -3,6 +3,17 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+### 2022-08-10 | 1h
+- Cleaned CSS
+- Added new section with information
+- Completed Alpha version of webpage
+
+### 2022-08-09 | 4.5h
+- Fixed alignment between sections
+- Added visual elements like box shadow
+- Filled out content in various sections
+- Added media queries and other elements for fluid responsiveness
+
 ### 2022-08-07 | 3h
 - Completed the take action section
 - Attempted to build responsife margins
