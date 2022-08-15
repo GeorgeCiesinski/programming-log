@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-08-11 | 1h
+- Javascript Basics 1
+
 ### 2022-08-01 | 4h
 - Flexbox 2-4
 
