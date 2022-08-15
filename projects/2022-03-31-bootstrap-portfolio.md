@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+
+### 2022-08-14 | 2h
+- Added landing-page portfolio item
+- Fixed scss so carousel resizes to image
+
 ### 2022-07-26 | 0.5h
 - Fixed broken links on all portfolio items
 
