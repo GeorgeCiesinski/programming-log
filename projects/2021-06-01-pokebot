@@ -1,0 +1,17 @@
+#Pokebot
+
+This project was created sometime in 2021 and revisited more recently.
+
+### 2022-08-19 | 2h
+- Created new wiki pages and removed word soup from Readme
+
+### 2022-08-18 | 1h
+- Updated documentation on Readme
+
+### 2022-08-16 | 1h
+- Finally ran pokebot successfully
+
+### 2022-08-15 | 2h
+- Successfully installed Docker and ran getting-started
+- Basic tutorial to familiarize myself with Docker
+- Attempted to run Poke-bot docker build unsuccessfully
