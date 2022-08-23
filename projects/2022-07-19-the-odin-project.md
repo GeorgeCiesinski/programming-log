@@ -2,6 +2,12 @@
 
 https://www.theodinproject.com
 
+### 2022-08-20 | 1h
+- Javascript Basics 2 finished
+
+### 2022-08-20 | 1h
+- Javascript Basics 2 started
+
 ### 2022-08-11 | 1h
 - Javascript Basics 1
 
