@@ -3,6 +3,12 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+### 2022-08-31 | 3h
+- Fixed bug where rounds didn't reset correctly
+- Fixed bug where player selection image did not return to blank when a game is tied
+- Added better instructions in shakespearean english
+- Added conditional button styling so users know to click "Next Round"
+- Added conditional font awesome icons to illustrate winner
 
 ### 2022-08-29 | 3h
 - Added images to player and computer selection boxes
