@@ -1,5 +1,7 @@
 # Bootstrap Portfolio Log
 
+### 2022-09-01 | 3.5h
+- Added Rock Paper Scissors website portfolio item
 
 ### 2022-08-14 | 2h
 - Added landing-page portfolio item
