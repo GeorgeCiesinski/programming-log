@@ -3,9 +3,12 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+### 2022-09-05 | 2h
+- Started Javascript Basics 10
+- Javascript Basics 8-9
+
 ### 2022-08-20 | 3h
 - Javascript Basics 2
-
 
 ### 2022-08-11 | 1h
 - Javascript Basics 1
