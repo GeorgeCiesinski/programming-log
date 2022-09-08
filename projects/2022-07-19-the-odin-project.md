@@ -2,6 +2,17 @@
 
 https://www.theodinproject.com
 
+### 2022-09-08 | 0.5h
+- Javascript Basics 10 readings
+
+### 2022-09-07 | 0.5h
+- Javascript Basics 10 readings
+
+### 2022-09-05 | 2h
+- Javascript Basics 8-9
+
+### 2022-08-26 | 2h
+- Javascript Basics 6-7
 
 ### 2022-08-26 | 2h
 - Javascript Basics 4-5
