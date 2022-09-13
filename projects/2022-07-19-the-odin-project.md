@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-09-13 | 1h
+- Completed Javascript exercises 1-2
+
 ### 2022-09-08 | 0.5h
 - Javascript Basics 10 readings
 
