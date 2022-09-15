@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-09-14 | 2h
+- Completed Javascript exercises 4-7
+
 ### 2022-09-13 | 1h
 - Completed Javascript exercises 1-2
 
