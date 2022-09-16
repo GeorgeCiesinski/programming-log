@@ -3,6 +3,9 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+## Project Link
+https://github.com/GeorgeCiesinski/rock-paper-scissors-website
+
 ### 2022-08-31 | 3h
 - Fixed bug where rounds didn't reset correctly
 - Fixed bug where player selection image did not return to blank when a game is tied
