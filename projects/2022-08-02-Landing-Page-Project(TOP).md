@@ -3,6 +3,9 @@
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
 
+## Project Link
+https://github.com/GeorgeCiesinski/landing-page
+
 ### 2022-08-10 | 2h
 - Cleaned CSS
 - Added new section with information
