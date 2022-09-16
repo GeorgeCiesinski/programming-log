@@ -2,11 +2,25 @@
 
 https://www.theodinproject.com
 
+### 2022-09-16 | 3h
+- Javascript Basics 10-13
+- JavaScript30 exercises 1 & 25
+
 ### 2022-09-14 | 2h
 - Completed Javascript exercises 4-7
 
 ### 2022-09-13 | 1h
 - Completed Javascript exercises 1-2
+
+### 2022-09-05 | 2h
+- Started Javascript Basics 10
+- Javascript Basics 8-9
+
+### 2022-08-20 | 3h
+- Javascript Basics 2
+
+### 2022-08-11 | 1h
+- Javascript Basics 1
 
 ### 2022-09-08 | 0.5h
 - Javascript Basics 10 readings
