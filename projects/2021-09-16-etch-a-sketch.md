@@ -1,6 +1,7 @@
 # Pokebot
 
-Etch-a-Sketch like project created for The Odin Project
+This project was built as an assignment for The Odin Project
+https://www.theodinproject.com
 
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
