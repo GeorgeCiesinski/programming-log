@@ -6,6 +6,10 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
+### 2022-09-22 | 2h
+- Added color selection inputs to tool controls
+- Added responsive flex grid system
+
 ### 2022-09-20 | 4h
 - Tried a few different responsive layouts
 - Converted radio buttons in controls to regular buttons
