@@ -6,6 +6,14 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
+
+### 2022-09-23 | 3h
+- Completed adding grid into page
+- Added grid resize feature
+- Modified slider to start with correct value
+- Created a resize and clear button so grid doesn't automatically clear image prematurely
+- Todo: Use Canvas to export div as finished image
+
 ### 2022-09-22 | 2h
 - Added color selection inputs to tool controls
 - Added responsive flex grid system
