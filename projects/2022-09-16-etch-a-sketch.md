@@ -6,6 +6,10 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
+### 2022-09-24 | 4h
+- Found suitable button/controls styling
+- Added rounded look to controls elements
+- Todo: Find a way to fit controls onto desktop and mobile
 
 ### 2022-09-23 | 3h
 - Completed adding grid into page
