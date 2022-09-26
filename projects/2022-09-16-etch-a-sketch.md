@@ -6,6 +6,14 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
+### 2022-09-25 | 7h
+- Added full grid functionality
+- Programmed tool buttons which draw, erase, and eyedrop cells
+- Fixed eyedrop bug due to hex/rgb conversion issue
+- Updated styling for buttons and grid
+- Added background functionality which changes only background cells
+- Reorganized page layout so colors and draw tools is left of grid
+
 ### 2022-09-24 | 4h
 - Found suitable button/controls styling
 - Added rounded look to controls elements
