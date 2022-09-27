@@ -6,6 +6,14 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
+### 2022-09-25 | 3.5h
+- Updated color scheme for website
+- Changed button styling for selected button
+- Changed site wide font to custom font
+- Changed styling for slider and resize button
+- Updated Readme
+- Finished Project
+
 ### 2022-09-25 | 7h
 - Added full grid functionality
 - Programmed tool buttons which draw, erase, and eyedrop cells
