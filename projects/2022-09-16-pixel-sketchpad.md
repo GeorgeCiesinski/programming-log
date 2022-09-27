@@ -1,4 +1,4 @@
-# Pokebot
+# Pixel Sketchpad
 
 This project was built as an assignment for The Odin Project
 https://www.theodinproject.com
