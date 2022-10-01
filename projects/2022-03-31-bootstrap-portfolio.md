@@ -1,5 +1,11 @@
 # Bootstrap Portfolio Log
 
+### 2022-09-27 | 2h
+- Finished new page
+
+### 2022-09-26 | 2h
+- Started page for Pixel-Sketchpad
+
 ### 2022-09-01 | 3.5h
 - Added Rock Paper Scissors website portfolio item
 
