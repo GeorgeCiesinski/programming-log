@@ -6,7 +6,7 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/Etch-a-Sketch
 
-### 2022-09-25 | 3.5h
+### 2022-09-26 | 3.5h
 - Updated color scheme for website
 - Changed button styling for selected button
 - Changed site wide font to custom font
