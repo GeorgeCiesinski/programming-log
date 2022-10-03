@@ -2,7 +2,7 @@
 
 https://www.theodinproject.com
 
-### 2022-10-02 | 2h
+### 2022-10-02 | 4h
 - Finished Javascript Basics 14
 
 ### 2022-09-28 | 2h
