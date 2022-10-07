@@ -6,6 +6,11 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/calculator-web-app
 
+### 2022-10-06 | 3h
+
+- Display updates when numbers and operators are pressed
+- Equals button evaluates function by iterating over the array searching for operators
+
 ### 2022-10-03 | 2h
 
 - Finished styling and color scheme
