@@ -11,6 +11,7 @@ https://github.com/GeorgeCiesinski/calculator-web-app
 - Rewrote several functions and cleaned up script
 - Deleted second script, only one is used now
 - Fixed bugs with decimals and negative numbers
+- Completed Project
 
 ### 2022-10-08 | 2h
 
