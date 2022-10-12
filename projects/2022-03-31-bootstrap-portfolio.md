@@ -1,5 +1,8 @@
 # Bootstrap Portfolio Log
 
+### 2022-10-12 | 2h
+- Added new page for Calculator Web App
+
 ### 2022-09-27 | 2h
 - Finished new page
 
