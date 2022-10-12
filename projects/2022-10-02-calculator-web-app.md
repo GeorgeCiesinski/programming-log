@@ -6,6 +6,18 @@ https://www.theodinproject.com
 ## Project Link
 https://github.com/GeorgeCiesinski/calculator-web-app
 
+### 2022-10-12 | 2h
+
+- Resolved Precision Bug
+- Resolved bug where `toPrecision()` was getting out of range value
+- Added scrollbar to display output
+- Added console output to better monitor result of calculations
+- Finished Project
+
+### 2022-10-11 | 0.5h
+
+- Worked on precision bug
+
 ### 2022-10-09 | 3h
 
 - Rewrote several functions and cleaned up script
