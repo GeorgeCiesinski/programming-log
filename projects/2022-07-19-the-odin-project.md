@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-10-13 | 2h
+- Finished Javascript Basics 15 - Calculator Project
+- Finished The Back End - 1 & 2
+
 ### 2022-10-02 | 4h
 - Finished Javascript Basics 14
 
