@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-10-14 | 1h
+- Foundation Conclusion
+- Choose your path (Picked Full-stack JavaScript)
+
 ### 2022-10-13 | 2h
 - Finished Javascript Basics 15 - Calculator Project
 - Finished The Back End - 1 & 2
