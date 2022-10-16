@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-10-16 | 2h
+- Intermediate HTML Concepts 3-4
+- **Todo:** Exercises for Intermediate HTML Concepts 4
+
 ### 2022-10-15 | 1h
 - Intermediate HTML Concepts 1-2
 
