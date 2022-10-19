@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-10-19 | 4h
+- Intermediate CSS concepts 7-10
+
 ### 2022-10-18 | 4h
 - Intermediate CSS concepts 3-6
 - **Todo:** Exercises for Intermediate CSS concepts 6
