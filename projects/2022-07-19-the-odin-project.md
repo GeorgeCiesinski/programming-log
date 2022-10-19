@@ -3,8 +3,8 @@
 https://www.theodinproject.com
 
 ### 2022-10-18 | 4h
-- Intermediate CSS concepts 3-4
-- **Todo:** Exercises for above
+- Intermediate CSS concepts 3-5
+- **Todo:** Exercises for Intermediate CSS concepts 5
 
 ### 2022-10-17 | 4h
 - Exercises for Intermediate HTML Concepts 4
