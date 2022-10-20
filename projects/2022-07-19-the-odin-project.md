@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-10-19 | 1h
+- Forms 2
+
 ### 2022-10-19 | 3h
 - Intermediate CSS concepts 7-10
 - Forms 1
