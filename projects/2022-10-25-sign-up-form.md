@@ -6,7 +6,7 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/calculator-web-app](https://github.com/GeorgeCiesinski/sign-up-form)
 
-### 2022-10-25 | 4.5h
+### 2022-10-26 | 4.5h
 - Completed matching password validation
 - Completed validation for fields containing values only
 - Added photo credit to left side
