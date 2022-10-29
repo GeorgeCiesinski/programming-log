@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2022-10-27 | 1h
+- Grid 1-2 
+
 ### 2022-10-20 | 1h
 - Forms 2
 
