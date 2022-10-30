@@ -4,6 +4,8 @@ https://www.theodinproject.com
 
 ### 2022-10-30 | 3h
 - Grid 5
+- Grid 6
+- Started Admin Dashboard Project
 
 ### 2022-10-29 | 3h
 - Finished Grid 3 practice
