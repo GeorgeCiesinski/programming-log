@@ -2,6 +2,18 @@
 
 https://www.theodinproject.com
 
+### 2022-10-30 | 3h
+- Grid 5
+
+### 2022-10-29 | 3h
+- Finished Grid 3 practice
+- Grid 4
+- Grid 4 practice
+
+### 2022-10-28 | 1h
+- Grid 3
+- Todo: Grid 3 practice
+
 ### 2022-10-27 | 1h
 - Grid 1-2 
 
