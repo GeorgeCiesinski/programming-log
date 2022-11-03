@@ -6,6 +6,13 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
+### 2022-11-02 | 3h
+- Added more sample content
+- Added icons from Google Material Symbols
+- Improved grid layout
+- Added styling to multiple elements on the page to make it easier to look at
+- Condensed CSS code to improve readibility
+
 ### 2022-11-01 | 1h
 - Added sample content
 - Added grid to multiple elements
