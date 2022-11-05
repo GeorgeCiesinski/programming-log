@@ -6,6 +6,16 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
+### 2022-11-03 | 3h
+- Added additional button icons
+- Added content button styling
+- Added fixed sidebar styling
+- Added sticky top menu and correct z-index
+
+### 2022-11-03 | 1h
+- Added variables for easier modification of content
+- Fixed bugs with grid
+
 ### 2022-11-02 | 3h
 - Added more sample content
 - Added icons from Google Material Symbols
