@@ -6,7 +6,7 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
-### 2022-11-03 | 3h
+### 2022-11-04 | 3h
 - Added additional button icons
 - Added content button styling
 - Added fixed sidebar styling
