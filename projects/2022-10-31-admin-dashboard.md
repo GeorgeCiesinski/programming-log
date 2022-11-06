@@ -6,6 +6,14 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
+### 2022-11-05 | 3h
+- Added final color palette
+- Added final card and button styling
+- Fixed background color not spanning entire site. Now background color spans full height and width as a fixed div
+- Added opacity and transitions
+- Todo: Card collapse
+- Todo: Responsive grid
+
 ### 2022-11-04 | 3h
 - Added additional button icons
 - Added content button styling
