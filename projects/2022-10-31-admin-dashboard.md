@@ -6,6 +6,11 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
+### 2022-11-06 | 3.5h
+- Made content grid responsive (converted to flex)
+- Made top menu responsive
+- Added sample content
+
 ### 2022-11-05 | 3h
 - Added final color palette
 - Added final card and button styling
