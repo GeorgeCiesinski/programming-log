@@ -13,10 +13,7 @@ https://www.theodinproject.com
 - Page favourite and delete button functionality added
 - News hide/show button functionality added
 - Readme updated
-- Todo: Change color scheme to purple/blue
-- Todo: Top menu single row
 - Todo: Page buttons align
-- 
 
 ### 2022-11-06 | 3.5h
 - Made content grid responsive (converted to flex)
