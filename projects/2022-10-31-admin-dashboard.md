@@ -12,6 +12,8 @@ https://www.theodinproject.com
 - Search bar functionality
 - Page favourite and delete button functionality added
 - News hide/show button functionality added
+- Readme updated
+- Project finished
 
 ### 2022-11-06 | 3.5h
 - Made content grid responsive (converted to flex)
