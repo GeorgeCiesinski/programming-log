@@ -6,6 +6,15 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
+### 2022-11-08 | 1h
+- Changed top menu to one row with auto left margin
+- Fixed top menu item alignment
+- Fixed pages going full width during search
+- Made box-shadow softer
+- Aligned page card buttons with each other
+- Changed color scheme
+- Project finished
+
 ### 2022-11-07 | 6h
 - Added javascript
 - Project scope created (defined which features I will make functional, and which features are mock features which don't have to work)
@@ -13,7 +22,6 @@ https://www.theodinproject.com
 - Page favourite and delete button functionality added
 - News hide/show button functionality added
 - Readme updated
-- Todo: Page buttons align
 
 ### 2022-11-06 | 3.5h
 - Made content grid responsive (converted to flex)
