@@ -6,13 +6,14 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/admin-dashboard](https://github.com/GeorgeCiesinski/admin-dashboard)
 
-### 2022-11-08 | 1h
+### 2022-11-08 | 1.5h
 - Changed top menu to one row with auto left margin
 - Fixed top menu item alignment
 - Fixed pages going full width during search
 - Made box-shadow softer
 - Aligned page card buttons with each other
 - Changed color scheme
+- Added media queries to resize content top margin to the size of the top bar, which changes size as the flex items wrap
 - Project finished
 
 ### 2022-11-07 | 6h
