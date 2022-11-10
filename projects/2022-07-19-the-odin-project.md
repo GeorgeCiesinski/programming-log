@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-11-09 | 2h
+- Introduction 1-2
+- Organizing your Javascript Code 1
+
 ### 2022-10-30 | 3h
 - Grid 5
 - Grid 6
