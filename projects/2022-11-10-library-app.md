@@ -7,6 +7,14 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/library-app](https://github.com/GeorgeCiesinski/library-app)
 
+### 2022-11-14 | 8h
+- Resolved grid bug where all rows after the first were the wrong height
+- Updated book constructor to build new book with basic data
+- Added functionality to fetch book data from [Open Library](https://openlibrary.org/)
+- Built async function that updates book object with title and cover image if ISBN provided
+- Added function to add book to bookshelf
+- Added function to remove book from bookshelf
+
 ### 2022-11-13 | 4h
 - Added library array
 - Created book constructor
