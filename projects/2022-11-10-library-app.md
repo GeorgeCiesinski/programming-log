@@ -7,6 +7,12 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/library-app](https://github.com/GeorgeCiesinski/library-app)
 
+### 2022-11-15 | 3h
+- Added Read/Unread functionality
+- Added styling to book card
+- Added link to Open Library
+- Fixed book remove bug (wrong book was being removed)
+
 ### 2022-11-14 | 8h
 - Resolved grid bug where all rows after the first were the wrong height
 - Updated book constructor to build new book with basic data
