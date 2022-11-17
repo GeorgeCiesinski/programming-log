@@ -7,7 +7,7 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/library-app](https://github.com/GeorgeCiesinski/library-app)
 
-### 2022-11-15 | 7h
+### 2022-11-16 | 6h
 - Finalized color scheme for light & dark mode
 - Improved error catching in Open Library fetch
 - Improved book cards
