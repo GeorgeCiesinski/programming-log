@@ -1,5 +1,8 @@
 # Bootstrap Portfolio Log
 
+### 2022-11-17 | 1h
+- Added new page for Library App
+
 ### 2022-11-08 | 3h
 - Added new page for Splash-page
 - Added new page for Admin-dashboard
