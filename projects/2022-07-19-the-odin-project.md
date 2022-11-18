@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-11-17 | 6h
+- Finished Organizing your JavaScript Code 4
+- Organizing your JavaScript Code 5-6
+
 ### 2022-11-15 | 1h
 - Started Organizing your JavaScript Code 4
 
