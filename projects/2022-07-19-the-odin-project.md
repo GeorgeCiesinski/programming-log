@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-11-23 | 2h
+- Continued Organizing your JavaScript Code 7
+- Started cheatsheet for this information
+
 ### 2022-11-18 | 2h
 - Started Organizing your JavaScript Code 7
 
