@@ -2,6 +2,22 @@
 
 https://www.theodinproject.com
 
+
+### 2022-11-27 | 4h
+- Completed Organizing your JavaScript Code 7: Webpack
+- Finished through the tutorials
+- Researched the topic further to better understand it
+
+### 2022-11-26 | 2h
+- Continued Organizing your JavaScript Code 7: Webpack
+- Ran through the tutorials
+
+### 2022-11-25 | 2h
+- Started Organizing your JavaScript Code 7: Webpack
+
+### 2022-11-24 | 1h
+- Finished Organizing your JavaScript Code 7
+
 ### 2022-11-23 | 2h
 - Continued Organizing your JavaScript Code 7
 - Started cheatsheet for this information
