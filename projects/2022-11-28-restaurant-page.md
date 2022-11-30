@@ -6,7 +6,7 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
-### 2022-11-28 | 6h
+### 2022-11-29 | 6h
 - Created template html
 - Created dev environment webpack config
 - Created production webpack config
