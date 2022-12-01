@@ -6,6 +6,13 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-11-30 | 5h
+- Debugged webpack issues
+- Created baseLayout and copyright modules using the revealing module pattern
+- Generated header, content and footer
+- Updated Readme
+- Added favicon & updated template
+
 ### 2022-11-29 | 6h
 - Created template html
 - Created dev environment webpack config
