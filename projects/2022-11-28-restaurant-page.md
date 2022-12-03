@@ -6,6 +6,10 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-12-01 | 1h
+- Debugged issue finding dom elements unsuccessfully
+- Dom loads but javascript and console script unable to find element by ID - further research required
+
 ### 2022-12-01 | 4h
 - Updated Base Layout
 - Added navigation with buttons for tabbed webpage
