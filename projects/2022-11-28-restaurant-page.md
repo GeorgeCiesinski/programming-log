@@ -6,6 +6,13 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-12-01 | 4h
+- Updated Base Layout
+- Added navigation with buttons for tabbed webpage
+- Added home, menu, and contact js scripts
+- Added event listeners to nav buttons to generate content based on option picked
+- Faced bugs that require debugging
+
 ### 2022-11-30 | 5h
 - Debugged webpack issues
 - Created baseLayout and copyright modules using the revealing module pattern
