@@ -6,7 +6,13 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
-### 2022-12-01 | 1h
+### 2022-12-04 | 4h
+- Fixed bugs
+- Rewrote _nav function to use an array of objects representing nav menu items
+- Added clearContent function to clear _content element between pages
+- Added homePage function to generate initial home page on site load
+
+### 2022-12-03 | 1h
 - Debugged issue finding dom elements unsuccessfully
 - Dom loads but javascript and console script unable to find element by ID - further research required
 
