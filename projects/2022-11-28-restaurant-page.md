@@ -6,6 +6,16 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-12-06 | 4h
+- Created contact page
+- Embedded map in contact page
+- Improved menu styling
+- Added new course to menu with drinks
+- Condensed SCSS to make it easier to maintain
+- Added a fixed background image so content scrolls over it
+- Removed horizontal scroll and overflow
+- Added styling to nav buttons with french flag colors
+
 ### 2022-12-05 | 4h
 - Created menu.json file with course and menu item info
 - Updated menu.js to parse json for course/item info and create elements
