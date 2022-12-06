@@ -6,6 +6,11 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-12-05 | 4h
+- Created menu.json file with course and menu item info
+- Updated menu.js to parse json for course/item info and create elements
+- Changed headers in scss
+
 ### 2022-12-04 | 4h
 - Fixed bugs
 - Rewrote _nav function to use an array of objects representing nav menu items
