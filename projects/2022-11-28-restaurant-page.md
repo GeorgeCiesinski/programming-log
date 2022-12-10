@@ -6,6 +6,20 @@ https://www.theodinproject.com
 ## Project Link
 [https://github.com/GeorgeCiesinski/restaurant-page](https://github.com/GeorgeCiesinski/restaurant-page)
 
+### 2022-12-09 | 2h
+- Made Nav buttons wider
+- Added code to indicate which page you are on
+- Pushed dist to github
+
+### 2022-12-07 | 6h
+- Cleaned up "code soup" by breaking home, menu, and contact into multiple private methods
+- Added styling on all pages
+- Updated copyright
+- Added custom font
+- Improved favicon
+- Improved Address
+- Finished project
+
 ### 2022-12-06 | 4h
 - Created contact page
 - Embedded map in contact page
