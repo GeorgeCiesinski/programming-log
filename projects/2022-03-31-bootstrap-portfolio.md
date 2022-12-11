@@ -1,5 +1,8 @@
 # Bootstrap Portfolio Log
 
+### 2022-12-10 | 2.5h
+- Added new page for Restaurant Page
+
 ### 2022-11-17 | 1h
 - Added new page for Library App
 
