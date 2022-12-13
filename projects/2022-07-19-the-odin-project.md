@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2022-12-12 | 2h
+- Introduction 3: Linting (I somehow missed this. I need to do the exercise and add it into the next project)
+- Organizing your JavaScript Code 10: OOP Principles
+- JavaScript in the Real World 1: Dynamic User Interface Interaction
 
 ### 2022-11-27 | 4h
 - Completed Organizing your JavaScript Code 7: Webpack
