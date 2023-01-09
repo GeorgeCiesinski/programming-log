@@ -2,7 +2,11 @@
 
 This log tracks my time spent working on non project related problems, including opening stack overflow questions, creating pull requests on public repos, etc. 
 
-### 2023-01-08 | 1h
+### 2023-01-08 | 5h
+- Fixed Paletty bug
+- Came to impasse pending reply from repo owner
+
+### 2023-01-07 | 1h
 - Python script using PRAW library
 - Created a script to streamline comment editing and deleting
 - Refamiliarized self with PRAW after not using it for several years
