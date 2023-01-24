@@ -1,5 +1,13 @@
 # Bootstrap Resume Log
 
+### 2023-01-23 | 4h
+- Updated PDF resume
+- Added QR links to PDF resume
+- Minified main image
+- Updated resume description section
+- Updated new era end date
+- Updated skills section
+
 ### 2022-07-24 | 1h
 - Reorganized page to look nicer and more symmetrical
 - Replaced bg color with bg-light
