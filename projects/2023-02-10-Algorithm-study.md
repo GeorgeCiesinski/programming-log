@@ -2,7 +2,7 @@
 
 This log tracks my time spent learning algorithms. 
 
-### 2023-02-12 | 2h
+### 2023-02-12 | 3h
 - Big O notation continued
 - Leetcode
 
