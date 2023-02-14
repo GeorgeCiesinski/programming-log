@@ -2,6 +2,10 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-02-12 | 2h
+- Big O notation continued
+- Leetcode
+
 ### 2023-02-12 | 4h
 - Big O notation continued
 - Continued cracking the coding interview
