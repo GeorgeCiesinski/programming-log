@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+
+### 2023-02-14 | 1h
+- A bit of Computer Science 1
+
 ### 2022-12-12 | 2h
 - Introduction 3: Linting (I somehow missed this. I need to do the exercise and add it into the next project)
 - Organizing your JavaScript Code 10: OOP Principles
