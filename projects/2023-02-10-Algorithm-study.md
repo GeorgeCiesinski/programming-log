@@ -2,7 +2,11 @@
 
 This log tracks my time spent learning algorithms. 
 
-### 2023-02-12 | 3h
+### 2023-02-14 | 3h
+- Leetcode -> 2 problems
+- Studied MVC and other full-stack development topics
+
+### 2023-02-13 | 3h
 - Big O notation continued
 - Leetcode
 
