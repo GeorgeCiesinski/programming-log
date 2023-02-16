@@ -2,6 +2,8 @@
 
 https://www.theodinproject.com
 
+### 2023-02-15 | 1h
+- Started A bit of Computer Science 2
 
 ### 2023-02-14 | 1h
 - A bit of Computer Science 1
