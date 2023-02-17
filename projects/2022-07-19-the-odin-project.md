@@ -2,6 +2,10 @@
 
 https://www.theodinproject.com
 
+### 2023-02-16 | 2h
+- Continued A bit of Computer Science 2
+- Practiced exercises 1-3 https://www.codingame.com/playgrounds/5422/js-interview-prep-recursion
+
 ### 2023-02-15 | 1h
 - Started A bit of Computer Science 2
 
