@@ -2,6 +2,10 @@
 
 This log tracks my time spent working on non project related problems, including opening stack overflow questions, creating pull requests on public repos, etc. 
 
+### 2023-02-16 | 2h
+- Did some C# coding in unity to remind myself about the syntax
+- Did some Python coding as well for one of my older projects
+
 ### 2023-01-09 | 1h
 - Cloned a colleauge's repo and tested the functionality
 - Read through code to provide some hints
