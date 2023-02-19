@@ -3,7 +3,8 @@
 This log tracks my time spent learning algorithms. 
 
 
-### 2023-02-18 | 2h
+### 2023-02-18 | 4h
+- Studied Recursion
 - Studied Linked Lists
 - Leetcode -> 2 problems
 
