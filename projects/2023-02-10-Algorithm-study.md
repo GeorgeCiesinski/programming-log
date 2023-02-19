@@ -2,6 +2,11 @@
 
 This log tracks my time spent learning algorithms. 
 
+
+### 2023-02-18 | 2h
+- Studied Linked Lists
+- Leetcode -> 2 problems
+
 ### 2023-02-14 | 3h
 - Leetcode -> 2 problems
 - Studied MVC and other full-stack development topics
