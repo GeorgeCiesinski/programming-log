@@ -2,6 +2,9 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-02-20 | 1h
+- Studied Linked Lists further
+
 ### 2023-02-19 | 2h
 - Practiced Recursion
 
