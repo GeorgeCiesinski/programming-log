@@ -4,6 +4,7 @@ https://www.theodinproject.com
 
 ### 2023-02-20 | 2h
 - Intermediate Git 1-2
+- Started A bit of Computer Science 3
 
 ### 2023-02-17 | 3h
 - Finished A bit of Computer Science 2
