@@ -3,7 +3,7 @@
 This log tracks my time spent working on non project related problems, including opening stack overflow questions, creating pull requests on public repos, etc. 
 
 
-### 2023-02-21 | 3h
+### 2023-02-22 | 3h
 - Finished Data Structures Notes
 
 ### 2023-02-21 | 3h
