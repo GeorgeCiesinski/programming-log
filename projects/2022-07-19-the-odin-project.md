@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-02-23 | 2h
+- Javascript in the Real World 2 - 3
+
 ### 2023-02-20 | 2h
 - Intermediate Git 1-2
 - Started A bit of Computer Science 3
