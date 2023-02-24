@@ -2,7 +2,7 @@
 
 This log tracks my time spent learning algorithms. 
 
-### 2023-02-23 | 3h
+### 2023-02-23 | 2h
 - Studied interview concepts
 - Studied heaps
 
