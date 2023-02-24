@@ -2,6 +2,10 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-02-23 | 3h
+- Studied interview concepts
+- Studied heaps
+
 ### 2023-02-21 | 2h
 - Leetcode -> Completed 1 problem, struggled with another for hours
 
