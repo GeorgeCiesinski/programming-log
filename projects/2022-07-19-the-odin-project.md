@@ -2,7 +2,7 @@
 
 https://www.theodinproject.com
 
-### 2023-02-23 | 2h
+### 2023-02-23 | 3h
 - Javascript in the Real World 2 - 3
 
 ### 2023-02-20 | 2h
