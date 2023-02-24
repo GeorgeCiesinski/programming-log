@@ -2,6 +2,12 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-02-24 | 1h
+- Studied heaps
+- Studied min-heaps
+- Studied max-heaps
+- Studied heap representation using array
+
 ### 2023-02-23 | 2h
 - Studied interview concepts
 - Studied heaps
