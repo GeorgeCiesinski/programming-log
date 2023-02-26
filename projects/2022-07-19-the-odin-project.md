@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-02-23 | 1h
+- Testing Javascript 1
+
 ### 2023-02-23 | 3h
 - Javascript in the Real World 2 - 3
 
