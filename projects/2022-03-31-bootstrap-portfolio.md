@@ -1,5 +1,10 @@
 # Bootstrap Portfolio Log
 
+### 2023-02-27 | 0.5h
+- Removed old projects
+- Removed unneeded assets
+- Tested form functionality
+
 ### 2022-12-10 | 2.5h
 - Added new page for Restaurant Page
 
