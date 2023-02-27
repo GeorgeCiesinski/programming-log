@@ -1,5 +1,8 @@
 # Bootstrap Resume Log
 
+### 2023-02-27 | 0.5h
+- Updated resume and uploaded up to date version
+
 ### 2023-01-23 | 4h
 - Updated PDF resume
 - Added QR links to PDF resume
