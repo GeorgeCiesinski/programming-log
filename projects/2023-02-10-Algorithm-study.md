@@ -2,6 +2,11 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-02-27 | 1.5h
+- Leetcode #9 https://leetcode.com/problems/palindrome-number/
+- Studied Bitwise Operator
+- Studied low-level int reversal
+
 ### 2023-02-24 | 1h
 - Studied heaps
 - Studied min-heaps
