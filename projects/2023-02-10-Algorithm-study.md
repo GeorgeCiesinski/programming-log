@@ -2,6 +2,9 @@
 
 This log tracks my time spent learning algorithms. 
 
+### 2023-03-01 | 1h
+- Leetcode #26 (attempt)
+
 ### 2023-02-27 | 1.5h
 - Leetcode #9 https://leetcode.com/problems/palindrome-number/
 - Studied Bitwise Operator
