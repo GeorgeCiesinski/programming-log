@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-03-06 | 2h
+- Testing Javascript 3
+
 ### 2023-03-01 | 1.5h
 - Testing Javascript 2 - Finished Testing Practice
 
