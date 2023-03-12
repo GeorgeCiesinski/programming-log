@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-03-11 | 2h
+- React 1
+
 ### 2023-03-06 | 2h
 - Testing Javascript 3
 
