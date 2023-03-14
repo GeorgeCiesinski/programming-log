@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-03-14 | 2h
+- Planning out next project
+
 ### 2023-03-11 | 2h
 - React 1
 
