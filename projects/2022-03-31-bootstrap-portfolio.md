@@ -1,5 +1,9 @@
 # Bootstrap Portfolio Log
 
+
+### 2023-03-20 | 2h
+- Added Todo Web App to portfolio
+
 ### 2023-02-27 | 0.5h
 - Removed old projects
 - Removed unneeded assets
