@@ -2,6 +2,16 @@
 
 This log tracks my time spent working on non project related problems, including opening stack overflow questions, creating pull requests on public repos, etc. 
 
+### 2023-03-25 | 12h
+- Worked on ITS mock-up
+
+### 2023-03-24 | 10h
+- ITS mock-up
+
+### 2023-03-23 | 6h
+- Studied React
+- ITS mock-up
+
 ### 2023-03-22 | 6h
 - Studied Design Principles
 - Went over company website in preparation for the presentation portion of the interview
