@@ -2,6 +2,12 @@
 
 This log tracks my time spent working on non project related problems, including opening stack overflow questions, creating pull requests on public repos, etc. 
 
+### 2023-03-27 | 10h
+- Worked on ITS mock-up
+
+### 2023-03-26 | 10h
+- Worked on ITS mock-up
+
 ### 2023-03-25 | 12h
 - Worked on ITS mock-up
 
