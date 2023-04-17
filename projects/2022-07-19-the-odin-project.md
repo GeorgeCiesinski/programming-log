@@ -2,6 +2,8 @@
 
 https://www.theodinproject.com
 
+### 2023-04-16 | 1h
+- React 2
 
 ### 2023-03-20 | 5h
 - React 1 continued: Tic Tac Toe React tutorial
