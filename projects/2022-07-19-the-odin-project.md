@@ -2,6 +2,9 @@
 
 https://www.theodinproject.com
 
+### 2023-04-19 | 4h
+- Asynchronous Javascript and APIs 1-2
+
 ### 2023-04-16 | 1h
 - React 2
 
